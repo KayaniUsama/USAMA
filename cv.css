@@ -1,0 +1,53 @@
+.hero{
+    display: flex;
+    padding-top: 60px;
+}
+.hero2{
+    padding-left: 170px;
+}
+.hero1{
+    padding-left: 100px;
+}
+.square{
+height: 200px;
+width: 155px;
+background-color: transparent;
+border: 4px solid black;
+position: absolute;
+top: 40px;
+right: 1020px;
+}
+
+/* .bottom{
+    border-left: 2px solid #0509f0;
+        position: absolute;
+        top: 20px;
+        bottom: 90;
+}
+.right{
+    border-left: 2px solid #0004ff;
+        position: absolute;
+        top: 80%;
+        bottom: 0;
+} */
+.usama{
+display: flex;
+}
+
+.usama1{
+    padding-left: 100PX;
+}
+
+.usama2{
+    padding-left: 100px;
+}
+.usama3{
+    border-left: 6px solid rgb(159, 243, 243);
+    height: 290px;
+}
+.usama31{
+    padding-left: 20px;
+}
+hr{
+    border: 1px solid rgb(159, 243, 243) ;
+}
